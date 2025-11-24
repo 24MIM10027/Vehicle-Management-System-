@@ -135,16 +135,10 @@ Toyota Camry trunk is open.
 
 ## **👤 Author**
 
-**Name:** *Your Name*
-**Register Number:** *Your Register Number*
-**Course:** *Your Course Name*
+**Name:** *N Raja Ravi Varma*
+
+**Register Number:** *24MIM10027*
+
+**Course:** *Programming in Java*
 
 ---
-
-If you want, I can also generate:
-✔ A PDF-ready project report
-✔ Diagrams (Class Diagram, Use Case Diagram, etc.)
-✔ More child classes (Motorcycle, Truck)
-✔ A menu-driven extended version of your program
-
-Just tell me what you need.
